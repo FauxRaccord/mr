@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
-    <lastmod>2021-11-14T15:53:12+09:00</lastmod>
-  </url><url>
     <loc>/journal/volume3/</loc>
     <lastmod>2021-11-14T15:53:12+09:00</lastmod>
   </url><url>
     <loc>/journal/</loc>
+    <lastmod>2021-11-14T15:53:12+09:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2021-11-14T15:53:12+09:00</lastmod>
   </url><url>
     <loc>/journal/volume3/article007/</loc>
@@ -25,6 +25,12 @@
   </url><url>
     <loc>/commonground/paper00100/</loc>
     <lastmod>2021-09-14T15:54:12+09:00</lastmod>
+  </url><url>
+    <loc>/journal/volume1/</loc>
+    <lastmod>2021-09-14T15:53:12+09:00</lastmod>
+  </url><url>
+    <loc>/journal/volume2/</loc>
+    <lastmod>2021-09-14T15:53:12+09:00</lastmod>
   </url><url>
     <loc>/blog/fakeblog/post002/</loc>
     <lastmod>2021-09-14T15:53:12+09:00</lastmod>
@@ -77,16 +83,10 @@
     <loc>/blog/testrun/post0024/</loc>
     <lastmod>2021-09-14T15:53:12+09:00</lastmod>
   </url><url>
-    <loc>/journal/volume1/</loc>
-    <lastmod>2021-09-14T15:53:12+09:00</lastmod>
-  </url><url>
-    <loc>/journal/volume2/</loc>
+    <loc>/blog/fakeblog/</loc>
     <lastmod>2021-09-14T15:53:12+09:00</lastmod>
   </url><url>
     <loc>/blog/</loc>
-    <lastmod>2021-09-14T15:53:12+09:00</lastmod>
-  </url><url>
-    <loc>/blog/fakeblog/</loc>
     <lastmod>2021-09-14T15:53:12+09:00</lastmod>
   </url><url>
     <loc>/journal/article004/</loc>
