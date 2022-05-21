@@ -3,10 +3,6 @@ title: 소개
 date: '2019-02-28'
 aliases:
   - about-us
-menu:
-    main:
-        weight: -60
-        pre: about
 ---
 
 **공동작업실**은 다음과 같은 프로젝트와 자료로부터 도움을 받았습니다.

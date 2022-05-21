@@ -17,3 +17,55 @@ disableFastRender = true
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
+
+
+  [languages]
+    [languages.en]
+      title = "무리, 공동작업실"
+      subtitle = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "ˑ ˑ ˑ"
+      writtenBy = " "
+      readMore = "더 읽기"
+      readOtherPosts = "다른 글 보기"
+      newerPosts = "최신 글 보기"
+      olderPosts = "오래된 글 보기"
+      minuteReadingTime = "분 길이"
+      dateFormatSingle = "2006-01-02"
+      dateFormatList = "2006-01-02"
+
+      [languages.en.params.logo]
+        logoText = "무리"
+        logoHomeLink = "/"
+      # or
+      #
+      # path = "/img/your-example-logo.svg"
+      # alt = "Your example logo alt text"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "blog"
+          name = "블로그"
+          url = "/blog"
+          weight = -80
+        [[languages.en.menu.main]]
+          identifier = "journal"
+          name = "문예지"
+          url = "/journal"
+          weight = -70
+        [[languages.en.menu.main]]
+          identifier = "commonground"
+          name = "투고"
+          url = "/commonground"
+          weight = -60
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "소개"
+          url = "/page/about"
+          weight = -50
+        [[languages.en.menu.main]]
+          identifier = "search"
+          name = "검색"
+          url = "/search"
+          weight = -40
