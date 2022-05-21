@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hello-friend-mr"
+theme = "hello-friend-master"
 paginate = 5
 disableFastRender = true
 
