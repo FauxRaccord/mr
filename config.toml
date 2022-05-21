@@ -5,6 +5,7 @@ paginate = 5
 disableFastRender = true
 
 [params]
+   mainSections = ["post", "journal", "blog", "commonground"]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
   # "light" or "dark"
