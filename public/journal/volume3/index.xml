@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3호 on </title>
+    
+    
+    
+    <link>/journal/volume3/</link>
+    <description>Recent content in 3호 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Nov 2021 15:53:12 +0900</lastBuildDate>
+    
+	<atom:link href="/journal/volume3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>확인하기 위해서 너무 많은 트래픽이 낭비되었다</title>
+      <link>/journal/volume3/article007/</link>
+      <pubDate>Sun, 14 Nov 2021 15:53:12 +0900</pubDate>
+      
+      <guid>/journal/volume3/article007/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          하고 싶은 말이 특별히 없어서 짧게 쓰겠습니다.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

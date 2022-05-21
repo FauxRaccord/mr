@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    
+    
+    
+    <link>/page/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archives</title>
+      <link>/page/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/page/archives/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>소개</title>
+      <link>/page/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/page/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          공동작업실은 다음과 같은 프로젝트와 자료로부터 도움을 받았습니다.
+ 정적 페이지 생성기 Hugo 테마 hugo-theme-stack 각주 라이브러리 littlefoot 드래그 가능한 객체 vanilla drag n drop 스크롤에 반응하는 헤더 Hide Header on Scroll Down &amp;amp; Show on Scroll Up 아이콘 파일 SVG repo  
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>투고 안내</title>
+      <link>/page/submission/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/page/submission/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          공동작업실에 업로드되는 글은 모두 마크다운 문법으로 작성되었습니다.
+마크다운 파일로 직접 제출하는 경우 아래의 문법을 참고할 수 있습니다.
+강조#*기울임*
+*두껍게*
+기울임
+두껍게
+각주#각주[^3]
+[^3]:내용(각주의 숫자는 표기와 무관하게 순서대로 계산)
+각주1
+줄바꿈(강제개행)2#줄바꿈\ 줄바꿈
+줄바꿈
+줄바꿈
+소제목## h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+h1#h2#h3#h4#h5#h6#  내용(각주의 숫자는 표기와 무관하게 순서대로 계산)&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
